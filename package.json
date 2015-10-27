@@ -1,6 +1,6 @@
 {
   "name": "utrack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Packing GPS track in a text string",
   "scripts": {
     "test": "./node_modules/.bin/mocha test"
