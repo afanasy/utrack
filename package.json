@@ -1,0 +1,25 @@
+{
+  "name": "utrack",
+  "version": "1.0.0",
+  "description": "Packing GPS track in a text string",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afanasy/utrack.git"
+  },
+  "author": "Afanasii Kurakin <afanasy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afanasy/utrack/issues"
+  },
+  "homepage": "https://github.com/afanasy/utrack",
+  "dependencies": {
+    "ufix": "1.2.2"
+  },
+  "devDependencies": {
+    "expect.js": "0.3.1",
+    "mocha": "2.2.5"
+  }
+}
